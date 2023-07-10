@@ -32,22 +32,6 @@ public class Honmei {
 		}
 	}
 }
-//		 Hose hose = new Hose();
-//	        Scanner scanner = new Scanner(System.in);
-//	        for (int i = 0; i < 3; i++) {
-//	            System.out.println("本命か対抗か穴か選んでください");
-//	            String input = scanner.next();
-//	            switch (input) {
-//	                case "本命":
-//	                case "対抗":
-//	                case "穴":
-//	                    Hose.uma();
-//	                    break;
-//	                default:
-//	                    System.out.println("無効な入力です。もう一度入力してください。");
-//	                    i--;
-//	                    break;
-//	            }
-//	        }
+
 		
 
